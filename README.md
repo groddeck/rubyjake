@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rubocop-hq/rubocop/master/logo/rubo-logo-horizontal.png" alt="RuboCop Logo"/>
+  RubyJake
 </p>
 
 ----------
@@ -15,9 +15,6 @@
 [![OpenCollective](https://opencollective.com/rubocop/backers/badge.svg)](#open-collective-backers)
 [![OpenCollective](https://opencollective.com/rubocop/sponsors/badge.svg)](#open-collective-sponsors)
 [![Tidelift](https://tidelift.com/badges/package/rubygems/rubocop)](https://tidelift.com/subscription/pkg/rubygems-rubocop?utm_source=rubygems-rubocop&utm_medium=referral&utm_campaign=readme)
-
-> Role models are important. <br/>
-> -- Officer Alex J. Murphy / RoboCop
 
 **RuboCop** is a Ruby static code analyzer (a.k.a. `linter`) and code formatter. Out of the box it
 will enforce many of the guidelines outlined in the community [Ruby Style
